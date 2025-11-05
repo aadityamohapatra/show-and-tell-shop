@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 
-const PLACEHOLDER_BRAND = "Show & Tell";
+const PLACEHOLDER_BRAND = "Jyoti's World";
 
 const DEFAULTS = {
   MIN_PRICE: 0,
